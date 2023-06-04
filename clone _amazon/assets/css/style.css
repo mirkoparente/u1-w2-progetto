@@ -1,0 +1,123 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 1519px;
+}
+.bg-img {
+  background-image: url(../bg-image.png);
+  background-size: 93%;
+  padding: 2.3em 0;
+}
+.text-center {
+  text-align: center;
+}
+.bg-logo {
+  background-color: rgb(34, 47, 63);
+}
+.bg-nav {
+  background-color: rgb(54, 71, 89);
+}
+.bg-orange {
+  background-color: rgb(245, 102, 0);
+}
+.bg-main {
+  background-image: url(../bg-img.png);
+  background-position: center;
+  background-size: cover;
+}
+.color-a {
+  color: rgb(7, 102, 117);
+  text-decoration: none;
+}
+.text-white {
+  color: white;
+}
+.size {
+  font-size: 2em;
+  font-weight: bold;
+}
+.size-p {
+  font-size: 1.2em;
+  font-weight: 600;
+}
+.m {
+  margin: 0 2em;
+}
+.m1 {
+  margin: 2em 0;
+}
+.m2 {
+  margin-left: 2em;
+}
+.p {
+  padding: 2em;
+}
+.p07 {
+  padding: 0.7em 0;
+}
+.p1 {
+  padding: 1em 0;
+}
+
+nav ul li {
+  display: inline-block;
+  font-size: 1.1rem;
+}
+nav ul li a,
+article a {
+  color: rgba(255, 255, 255, 0.792);
+  text-decoration: none;
+  padding-left: 0.7em;
+}
+header img {
+  width: 9%;
+}
+.w-img {
+  width: 13%;
+}
+.box p {
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-bottom: 1em;
+}
+.card,
+.card2 {
+  margin: 2em 0;
+}
+.bg-card {
+  background: white;
+}
+
+.card a {
+  font-size: 0.8em;
+  margin-left: 1.5em;
+}
+
+.card2 img {
+  width: 100%;
+}
+
+.card-img {
+  display: inline-block;
+  padding: 1.7em;
+  width: 18%;
+  height: 350px;
+  border-radius: 1em;
+  box-shadow: 10px 5px 5px rgba(211, 211, 211, 0.705);
+  margin: 0.7em 1em;
+  margin-top: 0;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.bg-img1 {
+  background-image: url(../img_1.jpg);
+}
+.bg-img2 {
+  background-image: url(../img_2.jpg);
+}
+.bg-img3 {
+  background-image: url(../img_3.jpg);
+}
+.bg-img4 {
+  background-image: url(../img_4.jpg);
+}
